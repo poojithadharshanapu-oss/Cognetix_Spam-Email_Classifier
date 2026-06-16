@@ -40,5 +40,3 @@ Spam Email Classifier is a Machine Learning project that automatically classifie
 - Precision: 100%
 - Recall: 74.7%
 - F1 Score: 85.5%
-
-## Folder Structure
